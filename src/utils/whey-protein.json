@@ -1,0 +1,84 @@
+{
+  "whey-protein": [
+    {
+      "id": 1,
+      "brand": "MuscleTech",
+      "name": "NitroTech Whey Protein",
+      "category": "Whey Protein",
+      "price": "Rs.5500",
+      "image": "/public/images/whey/MT-whey.png"
+    },
+    {
+      "id": 2,
+      "brand": "Optimum Nutrition",
+      "name": "100% Whey Gold Standard",
+      "category": "Whey Protein",
+      "price": "Rs.6200",
+      "image": "/public/images/whey/ON-whey.png"
+    },
+    {
+      "id": 3,
+      "brand": "BPI",
+      "name": "Whey HD",
+      "category": "Whey Protein",
+      "price": "Rs.5800",
+      "image": "/public/images/whey/BPI-whey.png"
+    },
+    {
+      "id": 4,
+      "brand": "Gibbon Nutrition",
+      "name": "Muscle Whey",
+      "category": "Whey Protein",
+      "price": "Rs.4500",
+      "image": "/public/images//whey/GIB-whey.jpg"
+    },
+    {
+      "id": 5,
+      "brand": "Dymatize",
+      "name": "ISO 100",
+      "category": "Whey Protein",
+      "price": "Rs.6900",
+      "image": "/public/images/whey/DYM-whey.png"
+    },
+    {
+      "id": 6,
+      "brand": "BSN",
+      "name": "Syntha 6",
+      "category": "Whey Protein",
+      "price": "Rs.4700",
+      "image": "/public/images/whey/BSN-whey.png"
+    },
+    {
+      "id": 7,
+      "brand": "Labrada Nutrition",
+      "name": "100% Whey",
+      "category": "Whey Protein",
+      "price": "Rs.4100",
+      "image": "/public/images/whey/LN-whey.png"
+    },
+    {
+      "id": 8,
+      "brand": "My Protein",
+      "name": "Impact Whey",
+      "category": "Whey Protein",
+      "price": "Rs.6200",
+      "image": "/public/images/whey/MP-whey.png"
+    },
+    {
+      "id": 9,
+      "brand": "Ronnie Coleman",
+      "name": "Pro-Antium",
+      "category": "Whey Protein",
+      "price": "Rs.4400",
+      "image": "/public/images/whey/RC-whey.png"
+    },
+    {
+      "id": 10,
+      "brand": "Gaspari Nutrition",
+      "name": "Myo Fusion",
+      "category": "Whey Protein",
+      "price": "Rs.5200",
+      "image": "/public/images/whey/GN-whey.png"
+    }
+  ]
+}

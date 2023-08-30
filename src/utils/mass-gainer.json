@@ -1,0 +1,84 @@
+{
+  "mass-gainer": [
+    {
+      "id": 1,
+      "brand": "MuscleTech",
+      "name": "MassTech Extreme 3000",
+      "category": "Mass Gainer",
+      "price": "Rs.3300",
+      "image": "/public/images/mass/MT-mass.png"
+    },
+    {
+      "id": 2,
+      "brand": "Optimum Nutrition",
+      "name": "Serious Mass",
+      "category": "Mass Gainer",
+      "price": "Rs.2700",
+      "image": "/public/images/mass/ON-mass.png"
+    },
+    {
+      "id": 3,
+      "brand": "GNC",
+      "name": "Weight Gainer",
+      "category": "Mass Gainer",
+      "price": "Rs.3600",
+      "image": "/public/images/mass/GNC-mass.png"
+    },
+    {
+      "id": 4,
+      "brand": "Gibbon Nutrition",
+      "name": "Mass Gainer",
+      "category": "Mass Gainer",
+      "price": "Rs.3000",
+      "image": "/public/images/mass/GIB-mass.png"
+    },
+    {
+      "id": 5,
+      "brand": "BPI",
+      "name": "Bulk Muscle XL",
+      "category": "Mass Gainer",
+      "price": "Rs.4300",
+      "image": "/public/images/mass/BPI-mass.png"
+    },
+    {
+      "id": 6,
+      "brand": "Avvatar",
+      "name": "Muscle Gainer",
+      "category": "Mass Gainer",
+      "price": "Rs.4800",
+      "image": "/public/images/mass/AVT-mass.png"
+    },
+    {
+      "id": 7,
+      "brand": "Gaspari Nutrition",
+      "name": "real Mass",
+      "category": "Mass Gainer",
+      "price": "Rs.5100",
+      "image": "/public/images/mass/GN-mass.png"
+    },
+    {
+      "id": 8,
+      "brand": "MuscleBlaze",
+      "name": "High Protein Gainer",
+      "category": "Mass Gainer",
+      "price": "Rs.2900",
+      "image": "/public/images/mass/MB-mass.png"
+    },
+    {
+      "id": 9,
+      "brand": "QNT",
+      "name": "3000 Muscle Mass",
+      "category": "Mass Gainer",
+      "price": "Rs.4700",
+      "image": "/public/images/mass/QNT-mass.png"
+    },
+    {
+      "id": 10,
+      "brand": "Ronnie Coleman",
+      "name": "King Mass XL",
+      "category": "Mass Gainer",
+      "price": "Rs.4100",
+      "image": "/public/images/mass/RC-mass.png"
+    }
+  ]
+}

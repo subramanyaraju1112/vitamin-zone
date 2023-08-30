@@ -1,0 +1,52 @@
+{
+  "omega": [
+    {
+      "id": 1,
+      "brand": "Big Muscles Nutrition",
+      "name": "Real Fish Oil",
+      "category": "Omega 3",
+      "price": "Rs.1100",
+      "image": "/public/images/omega/BM-omega.png"
+    },
+    {
+      "id": 2,
+      "brand": "GNC",
+      "name": "Fish Body Oil 1000",
+      "category": "Omega 3",
+      "price": "Rs.1400",
+      "image": "/public/images/omega/GNC-omega.png"
+    },
+    {
+      "id": 3,
+      "brand": "MuscleBlaze",
+      "name": "Fish Oil",
+      "category": "Omega 3",
+      "price": "Rs.1800",
+      "image": "/public/images/omega/MB-omega.png"
+    },
+    {
+      "id": 4,
+      "brand": "NOW",
+      "name": "Omega-3",
+      "category": "Omega 3",
+      "price": "Rs.1200",
+      "image": "/public/images/omega/NOW-omega.png"
+    },
+    {
+      "id": 5,
+      "brand": "One Science",
+      "name": "Essential Omega",
+      "category": "Omega 3",
+      "price": "Rs.1700",
+      "image": "/public/images/omega/OS-omega.png"
+    },
+    {
+      "id": 6,
+      "brand": "QNT",
+      "name": "Pure Omega",
+      "category": "Omega 3",
+      "price": "Rs.900",
+      "image": "/public/images/omega/QNT-omega.png"
+    }
+  ]
+}

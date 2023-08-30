@@ -1,0 +1,52 @@
+{
+  "vitamin": [
+    {
+      "id": 1,
+      "brand": "Big Muscles Nutrition",
+      "name": "The Real Vitamin",
+      "category": "Multi Vitamin",
+      "price": "Rs.850",
+      "image": "/public/images/vitamin/BM-vit.png"
+    },
+    {
+      "id": 2,
+      "brand": "MuscleBlaze",
+      "name": "MB-Vite",
+      "category": "Multi Vitamin",
+      "price": "Rs.1150",
+      "image": "/public/images/vitamin/MB-vit.png"
+    },
+    {
+      "id": 3,
+      "brand": "MuscleTech",
+      "name": "100% vitamin",
+      "category": "Multi Vitamin",
+      "price": "Rs.1250",
+      "image": "/public/images/vitamin/MT-vit.png"
+    },
+    {
+      "id": 4,
+      "brand": "One Life",
+      "name": "Multi Vitamins & Pro-Biotics",
+      "category": "Multi Vitamin",
+      "price": "Rs.770",
+      "image": "/public/images/vitamin/OL-vit.png"
+    },
+    {
+      "id": 5,
+      "brand": "One Science",
+      "name": "Daily Multi Vitamin",
+      "category": "Multi Vitamin",
+      "price": "Rs.1150",
+      "image": "/public/images/vitamin/OS-vit.png"
+    },
+    {
+      "id": 6,
+      "brand": "QNT",
+      "name": "Daily Vitamins",
+      "category": "Multi Vitamin",
+      "price": "Rs.890",
+      "image": "/public/images/vitamin/QNT_vit.png"
+    }
+  ]
+}

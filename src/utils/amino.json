@@ -1,0 +1,68 @@
+{
+  "amino": [
+    {
+      "id": 1,
+      "brand": "Big Muscles Nutrition",
+      "name": "Real BCAA",
+      "category": "BCAA",
+      "price": "Rs.2650",
+      "image": "/public/images/amino/BM-bcaa.png"
+    },
+    {
+      "id": 2,
+      "brand": "BPI",
+      "name": "Best BCAA",
+      "category": "BCAA",
+      "price": "Rs.3100",
+      "image": "/public/images/amino/BPI-bcaa.png"
+    },
+    {
+      "id": 3,
+      "brand": "GNC",
+      "name": "Gold Series BCAA",
+      "category": "BCAA",
+      "price": "Rs.2680",
+      "image": "/public/images/amino/GNC-bcaa.png"
+    },
+    {
+      "id": 4,
+      "brand": "MuscleBlaze",
+      "name": "Optimised BCAA",
+      "category": "BCAA",
+      "price": "Rs.3200",
+      "image": "/public/images/amino/MB-bcaa.png"
+    },
+    {
+      "id": 5,
+      "brand": "Muscle Pharm",
+      "name": "Real BCAA",
+      "category": "BCAA",
+      "price": "Rs.2850",
+      "image": "/public/images/amino/MP-bcaa.png"
+    },
+    {
+      "id": 6,
+      "brand": "Optimum Nutrition",
+      "name": "Instantised BCAA",
+      "category": "BCAA",
+      "price": "Rs.3900",
+      "image": "/public/images/amino/ON-bcaa.png"
+    },
+    {
+      "id": 7,
+      "brand": "One Science",
+      "name": "Recharge BCAA",
+      "category": "BCAA",
+      "price": "Rs.2000",
+      "image": "/public/images/amino/OS-bcaa.png"
+    },
+    {
+      "id": 8,
+      "brand": "Scivation",
+      "name": "Xtend BCAA",
+      "category": "BCAA",
+      "price": "Rs.2150",
+      "image": "/public/images/amino/SCI-bcaa.png"
+    }
+  ]
+}
